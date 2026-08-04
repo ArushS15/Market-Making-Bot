@@ -6,7 +6,7 @@ Instead of trying to predict price direction, the bot continuously
 quotes bid and ask prices around a simulated limit order book, managing
 inventory risk and adverse selection the way a real market maker would.
 
-<img width="1000" height="1200" alt="dashboard_example" src="https://github.com/user-attachments/assets/909b44ee-802a-423a-9e00-7527bebfeda7" />
+<img width="500" height="1200" alt="dashboard_example" src="https://github.com/user-attachments/assets/909b44ee-802a-423a-9e00-7527bebfeda7" />
 
 ## What this project demonstrates
 
