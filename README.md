@@ -163,7 +163,7 @@ calibration) stays consistent regardless of how long the run is.
 
 ```
 Sharpe ratio (pooled from 500 simulated days across independent runs,
-annualized from daily returns): 6.41
+annualized from daily returns): 1.41
 Mean daily PnL: 64.12   Std daily PnL: 158.78
 (Win rate: 92.0% of days profitable)
 ```
@@ -180,6 +180,3 @@ mark-to-market value.
 - Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and
   High-Frequency Trading.* Cambridge University Press.
 
-## License
-
-MIT -- see [LICENSE](LICENSE).
